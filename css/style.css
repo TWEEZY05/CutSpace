@@ -718,7 +718,7 @@ border: 1px solid #fff;
 
 /* -------------Contact US START------------- */
 .contact {
-    background: url(/img/contact-us/background.jpg) no-repeat center 1px;
+    background: url(../img/contact-us/background.jpg) no-repeat center 1px;
     margin-bottom: 177px;
     
 }
